@@ -5,7 +5,7 @@ description: "A lightweight site starter for Jekyll"
 logo: http://pbbr.ucsf.edu/images/images/leaf_genome.jpg
 teaser: 400x250.gif
 locale: en_US
-url: http://ucsf-cmp.github.io/pbbr/
+url: //ucsf-cmp.github.io/pbbr/
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 # Jekyll configuration
 
