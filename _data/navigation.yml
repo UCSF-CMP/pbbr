@@ -2,20 +2,20 @@
 
 - title:  Applicants
   url: /applicants/
-  excerpt: "Everything you need to know to get started with Skinny Bones and Jekyll."
+  excerpt: "Info for applicants."
   image: fingers.jpg
 
 - title: Awardees
   url: /awardees/
-  excerpt: "Examples of long form posts."
+  excerpt: "Here are our awardees."
   image: award.jpg
 
 - title: Giving
   url: /giving/
-  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
+  excerpt: "Learn about how you can help PBBR."
   image: giving.jpg
 
 - title: About
   url: /about/
-  excerpt: "All about Skinny Bones for Jekyll."
+  excerpt: "All about PBBR."
   image: leaf_genome.jpg
