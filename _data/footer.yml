@@ -1,0 +1,11 @@
+# Footer navigation links
+
+- title: Home
+  url: /
+
+- title: Application
+  url: /applicants/
+
+- title: About
+  url: /about/
+

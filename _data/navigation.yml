@@ -1,0 +1,21 @@
+# Site navigation links
+
+- title:  Applicants
+  url: /applicants/
+  excerpt: "Everything you need to know to get started with Skinny Bones and Jekyll."
+  image: fingers.jpg
+
+- title: Awardees
+  url: /awardees/
+  excerpt: "Examples of long form posts."
+  image: award.jpg
+
+- title: Giving
+  url: /giving/
+  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
+  image: giving.jpg
+
+- title: About
+  url: /about/
+  excerpt: "All about Skinny Bones for Jekyll."
+  image: leaf_genome.jpg
