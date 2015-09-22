@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Award Set Up"
-date: 2014-05-30T11:39:03-04:00
+date: 2015-09-30
 modified:
 excerpt: "Please follow this procedure to apply."
 tags: []
@@ -10,6 +10,7 @@ image:
   teaser:
 ---
 
+![keith](../images/keith.jpg)
 
 (1) E-mail Kerri Santos to obtain the PBBR parent chart string. The post-award manager for the project will then need to request a separate project ID, and utilize the PI's Department ID, to set up a unique chart string for the project.
 

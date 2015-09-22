@@ -6,7 +6,7 @@ logo: http://pbbr.ucsf.edu/images/images/leaf_genome.jpg
 teaser: 400x250.gif
 locale: en_US
 url: //localhost:4000
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://raw.githubusercontent.com/UCSF-CMP/pbbr/master/images/leaf_genome.jpg
 # Jekyll configuration
 
 sass:

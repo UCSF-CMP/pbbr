@@ -35,6 +35,22 @@
 }
 
 /*
+   Site Avatar
+   ========================================================================== */
+.site-avatar {
+  float: left;
+  width: 150px;
+  height: 121px;
+  margin-right: 15px;
+
+
+  img {
+    border-radius: 5px;
+  }
+}
+
+
+/*
    UCSF Banner Code here
    ========================================================================== */
 /* UCSF Banner */
@@ -47,7 +63,7 @@
 }
 
 .top-banner {
-    background: #052049;
+    background: #000;
     height: 32px;
     font-size: 14px;
     text-align: center;
@@ -115,7 +131,7 @@
 }
 
 .top-banner.teal {
-    background: #18a3ac;
+    background: #000;
 }
 
 /* Responsive */

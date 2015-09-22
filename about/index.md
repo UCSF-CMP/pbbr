@@ -1,8 +1,8 @@
 ---
 layout: article
-title: "About"
-date: 2014-06-02T09:44:20-04:00
-modified: 2014-08-27T14:56:44-04:00
+title: "Contact Us"
+date: 2015-09-22
+modified:
 excerpt: "Contact Us"
 image:
   feature:
@@ -12,26 +12,26 @@ share: false
 ads: false
 ---
 
-Contact Us
+![mission bay](../images/missionbay.jpg)
 
-Keith R. Yamamoto, Ph.D.
-Program Director
+**Keith R. Yamamoto**, Ph.D.<br>
+Program Director<br>
 keith.yamamoto@ucsf.edu
 
-Jennifer Banaszek
-Program Operations Manager
-jenny.banaszek@ucsf.edu
+**Kerri Santos**<br>
+Program Operations Manager<br>
+kerri.santos@ucsf.edu
 
-Vicky Chan
-Program Finance Manager
+**Vicky Chan**<br>
+Program Finance Manager<br>
 vicky.chan@ucsf.edu
 
-Michael Faber
-Program Director of Development
+**Michael Fabe**r<br>
+Program Director of Development<br>
 mfaber@support.ucsf.edu
 
-UC San Francisco Mission Bay
-600 16th Street, GH-S572A
-San Francisco, California 94158
-Tel 415.476.8445
+UC San Francisco Mission Bay<br>
+600 16th Street, GH-S572A<br>
+San Francisco, California 94158<br>
+Tel 415.476.8445<br>
 Fax 415.514.4112
