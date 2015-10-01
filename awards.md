@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "awards"
+title: "Awards"
 permalink: /awards/
-date: 2014-06-02T09:44:20-04:00
-modified: 2014-08-27T14:56:44-04:00
+date: 2015-10-01T09:44:20-04:00
+modified: 2015-10-27T14:56:44-04:00
 excerpt: "Types of Awards"
 image:
   feature:
@@ -12,7 +12,7 @@ image:
 share: false
 ads: false
 ---
-The Program for Breakthrough Biomedical Research offers awards in the following categories:
+**The Program for Breakthrough Biomedical Research** offers awards in the following categories:
 
 **New Frontier Research (NFR):** $25,000 to $150,000 for 1 year; supports basic science research projects at levels of risk and innovaton that substantially exceed those supported by NIH; multiple awards annually. Both individual principal investigators and co-investigators are eligible to apply. We encourage investigators from all stages in their careers to apply, and invite multiple PI projects that combine distinct research approaches to focus on a single problem; projects that span different UCSF campuses are also encouraged.
 
