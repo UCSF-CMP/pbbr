@@ -9,14 +9,14 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Types of Awards</h2>
-  <p class="post-excerpt">The Program for Breakthrough Biomedical Research offers awards in the following categories:</p> 
+  <p class="post-excerpt">Interested in applying for a PBBR grant or fellowship?</p> 
   <a href="awards">Click Here</a></p>
 
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Call for Proposals</h2>
-  <p class="post-excerpt">Do you have a bold, innovative idea?.</p>
+  <p class="post-excerpt">Do you have a bold, innovative idea?</p>
 <a href="proposals">Click Here</a>
 </div><!-- /.tile -->
 
