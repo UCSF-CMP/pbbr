@@ -1,9 +1,9 @@
 # Site navigation links
 
-- title:  Applicants
-  url: /applicants/
-  excerpt: "Info for applicants."
-  image: fingers.jpg
+- title:  About
+  url: /about/
+  excerpt: "Info about PBBR."
+  image: leaf_genome.jpg
 
 - title: Awardees
   url: /awardees/

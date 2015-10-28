@@ -2,10 +2,10 @@
 
 title: PBBR
 description: "Homepage for UCSF PBBR"
-logo: http://pbbr.ucsf.edu/images/images/leaf_genome.jpg
+logo: https://raw.githubusercontent.com/UCSF-CMP/pbbr/master/images/leaf_genome.jpg
 teaser: 400x250.gif
 locale: en_US
-url: //ucsf-cmp.github.io/pbbr
+url: //0.0.0.0:4000
 avatar: https://raw.githubusercontent.com/UCSF-CMP/pbbr/master/images/leaf_genome.jpg
 
 # Jekyll configuration

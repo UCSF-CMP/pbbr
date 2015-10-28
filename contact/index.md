@@ -28,7 +28,7 @@ vicky.chan@ucsf.edu
 
 **Michael Fabe**r<br>
 Program Director of Development<br>
-mfaber@support.ucsf.edu
+Michael.Faber@ucsf.edu
 
 UC San Francisco Mission Bay<br>
 600 16th Street, GH-S572A<br>
