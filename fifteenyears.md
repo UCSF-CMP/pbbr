@@ -26,35 +26,21 @@ At the celebration, Program Director Keith Yamamoto announced that PBBR projects
 
 ![keithyamamoto](https://www.ucsf.edu/sites/default/files/styles/400w/public/fields/field_insert_file/news/pbbr%20anniversary%20-29.jpg?itok=_sI3Imi8)
 
-<!--no docs right now...
-We invite you to learn more about PBBR and its 15 years of success by visiting the following:
-Documents:
+We invite you to learn more about PBBR and its 15 years of success:
 
-PBBR Overview Brochure ![PDF](images/PBBR_15_Year_PROGRAM.pdf)
+**Web Stories:**
 
-![PBBR Overview Brochure](images/PBBR_15_Year_PROGRAM.pdf)
+****
 
-Leading the way from curiosity to cures
+**UCSF News Center**:  [Novel Research Program Dares Scientists to Dig Deeper, Defy Status Quo](http://www.ucsf.edu/news/2013/05/106371/novel-research-program-dares-scientists-dig-deeper-defy-status-quo)
 
-PBBR 15 Year Anniversary Program (PDF)
-Unconventional Wisdom: Advancing Scientific Discovery by Breaking the Rules
+**Videos from 15 Year Anniversary Celebration:**
 
-PBBR 15 Year Report (PDF)-->
+****
 
-Web Stories:
+**Panel Discussion** (highlights): [“Unconventional Wisdom: Advancing Scientific Discovery by Breaking the Rules”](https://vimeo.com/channels/pbbr)
+**A Tribute to Marion O. Sandler**: [Honoring PBBR’s Founding Philanthropic Partner](https://vimeo.com/channels/pbbr/68261168)
+**Impact of Private Philanthropy**: [Herbert M. Sandler, Co-Founder, Sandler Foundation](https://vimeo.com/channels/pbbr/68254501)
 
-http://www.ucsf.edu/news/2013/05/106371/novel-research-program-dares-scientists-dig-deeper-defy-status-quo
-
-
-Videos from 15 Year Anniversary Celebration:
-
-Panel Discussion (HIGHLIGHTS) (Click here)
-Unconventional Wisdom: Advancing Scientific Discovery by Breaking the Rules
-
-A Tribute to Marion O. Sandler (Click here)
-Honoring PBBR's Founding Philanthropic Partner
-
-Impact of Private Philanthropy (Click here)
-Herbert M. Sandler, Co-Founder, Sandler Foundation
 
  

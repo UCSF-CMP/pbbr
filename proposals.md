@@ -13,10 +13,16 @@ share: false
 ads: false
 ---
 
-**Do** you have a **bold**, **innovative** **idea** in basic science? Something that is far away from NIH support? Something different than you are already doing?
- 
-Then apply for a **PBBR** **grant**!
+<span style="color:red">PBBR is currently accepting proposals for its Fall 2015 award cycle.</span>
 
-**PBBR Winter 2015 Call for Proposals** is here! Proposal due date is Tuesday, January 20, 2016 by 5:00 pm PST. Please e-mail a PDF of your proposal to kerri.santos@ucsf.edu.
+The Program for Breakthrough Biomedical Research (PBBR) invites proposals for funding in three award categories:
 
-To see the Winter 2015 PBBR Call for Proposals, click HERE. <http://ucsf.edu>
+* New Frontier Research (NFR)
+* Technologies, Methodologies & Cores (TMC)
+* Breakthrough Program in Rheumatoid Arthritis-Related Research (BPRAR)
+
+**The proposal deadline for all three funding mechanisms (NSF, TMC and BPRAR) is Friday, December 18, 2015 (5:00 pm PDT).**
+
+Award mechanism details, proposal instructions and eligibility requirements can be located here [insert current CFP].
+
+Please email questions to Kerri Santos, PBBR Program Manager <kerri.santos@ucsf.edu>.
