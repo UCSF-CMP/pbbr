@@ -28,15 +28,15 @@ At the celebration, Program Director Keith Yamamoto announced that PBBR projects
 
 We invite you to learn more about PBBR and its 15 years of success:
 
-**Web Stories:**
-
 ****
+
+**Web Stories:**
 
 **UCSF News Center**:  [Novel Research Program Dares Scientists to Dig Deeper, Defy Status Quo](http://www.ucsf.edu/news/2013/05/106371/novel-research-program-dares-scientists-dig-deeper-defy-status-quo)
 
-**Videos from 15 Year Anniversary Celebration:**
-
 ****
+
+**Videos from 15 Year Anniversary Celebration:**
 
 **Panel Discussion** (highlights): [“Unconventional Wisdom: Advancing Scientific Discovery by Breaking the Rules”](https://vimeo.com/channels/pbbr)
 **A Tribute to Marion O. Sandler**: [Honoring PBBR’s Founding Philanthropic Partner](https://vimeo.com/channels/pbbr/68261168)
