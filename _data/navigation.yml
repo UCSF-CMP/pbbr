@@ -3,19 +3,19 @@
 - title:  About
   url: /about/
   excerpt: "Info about PBBR."
-  image: leaf_genome.jpg
+  image: campus.gif
 
 - title: Awardees
   url: /awardees/
   excerpt: "Here are our awardees."
-  image: award.jpg
+  image: 400x250.gif
 
 - title: Giving
   url: /giving/
   excerpt: "Learn about how you can help PBBR."
-  image: giving.jpg
-
+  image: 400x250.gif
+  
 - title: Contact
   url: /contact/
   excerpt: "All about PBBR."
-  image: leaf_genome.jpg
+  image: 400x250.gif
