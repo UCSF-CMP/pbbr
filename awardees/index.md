@@ -3,7 +3,7 @@ layout: archive
 title: "Award Set Up"
 date: 2015-09-30
 modified:
-excerpt: "Please follow this procedure to apply."
+excerpt: ""
 tags: []
 image:
   feature:
