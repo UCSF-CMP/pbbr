@@ -18,7 +18,9 @@ At UCSF, PBBR has produced a bold culture, one of disruptive thinking and risk t
 
 This is the spirit that defines PBBR and UCSF as an institution. Another special quality about PBBR is that it’s funded entirely by private philanthropy and campus funds, not the federal or state government, like most programs. Please join us in supporting PBBR: With fast, flexible resources, we can turn unorthodox ideas into cures.
 
-We invite you to learn more by contacting:
+We invite you to learn more by<a href="/UCSF_PBBR_Philanthropy_Spring_2016.pdf" download="UCSF_PBBR_Philanthropy_Spring_2016.pdf">Downloading our Philanthropy Borchure</a>
+
+Or by contacting:
 Michael Faber
 Assistant Vice Chancellor, University Development
 Michael.Faber@ucsf.edu
