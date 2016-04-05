@@ -18,9 +18,9 @@ ads: false
 Program Director, PBBR<br>
 keith.yamamoto@ucsf.edu
 
-**Kerri Santos**<br>
+**Linda Reilly**<br>
 Program Manager, PBBR<br>
-kerri.santos@ucsf.edu
+Linda.Reilly@ucsf.edu
 
 **Vicky Chan**<br>
 Program Finance Analyst, PBBR<br>

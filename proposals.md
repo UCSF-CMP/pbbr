@@ -13,16 +13,15 @@ share: false
 ads: false
 ---
 
-<span style="color:red">PBBR is currently accepting proposals for its Fall 2015 award cycle.</span>
+<span style="color:red">PBBR is currently accepting proposals for its Spring 2016 award cycle.</span>
 
 The Program for Breakthrough Biomedical Research (PBBR) invites proposals for funding in three award categories:
 
 * New Frontier Research (NFR)
 * Technologies, Methodologies & Cores (TMC)
-* Breakthrough Program in Rheumatoid Arthritis-Related Research (BPRAR)
 
-**The proposal deadline for all three funding mechanisms (NSF, TMC and BPRAR) is Friday, December 18, 2015 (5:00 pm PDT).**
+**The proposal deadline for all three funding mechanisms (NSF and TMC) is Friday, April 29, 2016 (5:00 pm PDT).**
 
-Award mechanism details, proposal instructions and eligibility requirements can be located [here..DOWNLOAD FORM](../images/2015_Fall_CFP_FINAL.pdf) .
+Award mechanism details, proposal instructions and eligibility requirements can be located [here..DOWNLOAD FORM](../images/PBBR_Spring_2016_CFP.pdf) .
 
-Please email questions to Kerri Santos, PBBR Program Manager <kerri.santos@ucsf.edu>.
+Please email questions to Linda Reilly, PBBR Program Manager <Linda.Reilly@ucsf.edu>.
