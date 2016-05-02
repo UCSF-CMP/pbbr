@@ -12,7 +12,7 @@ image:
 
 ![keith](../images/keith.jpg)
 
-1.	Upon notification of award, email Linda Reilly <Linda.Reilly@ucsf.edu> to obtain the PBBR parent Chart of Account (COA) information.2.	The PI’s departmental accounting manager/contact will then need to request a separate project ID, and utilize the PI’s Department ID, to set up a unique COA for the project.3.	Once the PI’s project COA is set up, email the COA information to Kerri Santos.PBBR will then allocate funds to the PI’s project COA.
+1.	Upon notification of award, email Linda Reilly <Linda.Reilly@ucsf.edu> to obtain the PBBR parent Chart of Account (COA) information.2.	The PI’s departmental accounting manager/contact will then need to request a separate project ID, and utilize the PI’s Department ID, to set up a unique COA for the project.3.	Once the PI’s project COA is set up, email the COA information to Linda Reilly.PBBR will then allocate funds to the PI’s project COA.
 
 ****
 
@@ -30,7 +30,7 @@ Salaries for graduate students, postdocs, and professional technical staff are a
  
 So that we can prepare annual reports for the Sandler Foundation, we will ask Principal Investigators to provide progress reports for each year of their awards.
 
-We will also likely ask Principal Investigators to participate in a site visit by the Sandler family and their external scientific advisory committee, which occurs biennially. The next is schedule for May of 2016.
+We will also likely ask Principal Investigators to participate in a site visit by the Sandler family and their external scientific advisory committee, which occurs biennially. The next is schedule for July 2016.
  
 **PBBR Fellowships:**
  
