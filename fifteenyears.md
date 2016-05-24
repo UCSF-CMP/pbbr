@@ -22,7 +22,7 @@ A packed auditorium at Genentech Hall gathered for the event, which included a p
 
 ![sue hellmann](https://www.ucsf.edu/sites/default/files/styles/600w/public/fields/field_insert_file/news/pbbr%20anniversary%20-35.jpg?itok=jiEtq_js)
 
-At the celebration, Program Director Keith Yamamoto announced that PBBR projects have generated more than 1,500 scientific publications, more than 60 patents, and more than 1.2 billion dollars in subsequent funding for its PIs. In addition, PBBR projects have generated more than 1,500 scientific publications, more than 60 patents, and more than a half billion dollars in subsequent funding for its PIs. In addition, PBBR has also produced more than $200 million to support research at UCSF through indirect cost recovery, and has led to more than 300 National Institutes of Health (NIH) research grants.
+At the celebration, Program Director Keith Yamamoto announced that PBBR projects have generated more than 1,500 scientific publications, more than 60 patents, and more than 1.2 billion dollars in subsequent funding for its PIs. In addition, PBBR has also produced more than $200 million to support research at UCSF through indirect cost recovery, and has led to more than 300 National Institutes of Health (NIH) research grants.
 
 ![keithyamamoto](https://www.ucsf.edu/sites/default/files/styles/400w/public/fields/field_insert_file/news/pbbr%20anniversary%20-29.jpg?itok=_sI3Imi8)
 
